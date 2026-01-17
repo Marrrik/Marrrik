@@ -1,4 +1,5 @@
 Hi, I’m Mark 👋
+
 ML Engineer / Data Scientist focused on production machine learning systems.
 
 I work with end-to-end ML: from data collection and feature engineering to model deployment, monitoring, and iteration. My background includes fintech credit risk models, anomaly detection in industrial data, OCR, time series forecasting, and NLP.
