@@ -1,43 +1,94 @@
-Hi, I’m Mark 👋
+<div align="center">
 
-ML Engineer / Data Scientist focused on production machine learning systems.
+# Hi, I’m Mark 👋  
+### ML Engineer / Data Scientist
 
-I work with end-to-end ML: from data collection and feature engineering to model deployment, monitoring, and iteration.
-My background includes fintech credit risk models, anomaly detection in industrial data, OCR, time series forecasting, and NLP.
+Building production-ready ML systems: from data pipelines to model deployment and monitoring.
 
-Currently interested in building reliable ML pipelines, MLOps infrastructure, and scalable data systems.
+</div>
 
-🔧 Tech Stack
+---
 
-Python: pandas, NumPy, scikit-learn, PyTorch
+## 💼 Career Focus
 
-ML / DL: gradient boosting, time series models, NLP (BERT, FinBERT)
+```mermaid
+journey
+  title Mark's Growth in ML & Data Engineering
+  section Data & Analytics
+    Data Analysis & BI: 4: Mark
+  section Machine Learning
+    Credit Risk & Time Series: 5: Mark
+  section Production ML
+    MLOps, Pipelines, Deployment: 5: Mark
+🔧 Engineering Highlights
+<details> <summary>🚀 Production ML Pipelines</summary>
+Python, Airflow, SQL
 
-Data: PostgreSQL, Oracle, ClickHouse, Hadoop
+End-to-end pipelines: data → features → models → metrics
 
-MLOps: Docker, Docker Compose, Kubeflow, MLflow, DVC, CI/CD
+Used in fintech & industrial environments
 
-Orchestration & APIs: Airflow, FastAPI
+</details> <details> <summary>📈 Credit Risk Modeling</summary>
+PD / LGD models
 
-Visualization: Power BI, Dash, Streamlit
+Regulatory-oriented development
 
-📌 Selected Projects
+Model validation & business metrics
 
-End-to-end ML system for credit risk modeling (PD, LGD) with production deployment
+</details> <details> <summary>🧠 NLP & Time Series Systems</summary>
+FinBERT, BERT, Prophet
 
-Anomaly detection pipelines for industrial data (R&D, production monitoring)
+Multi-source data ingestion
 
-Multi-source ETL system with time series forecasting and NLP sentiment analysis
+Sentiment indices & forecasts
 
-ML-powered backend services with REST APIs and Telegram bots
+</details> <details> <summary>🤖 ML Services & Bots</summary>
+FastAPI-based ML backends
 
+Telegram bots for analytics & alerts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marrrik&show_icons=true&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marrrik&layout=compact" />
-</p>
+Dockerized deployment
 
-📫 Contact
+</details>
+🧠 My Stack
+🌍 Languages & ML
+<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
+pandas, NumPy, scikit-learn
 
-Telegram: @tvoi_support
-Email: slaidsuper@gmail.com
+PyTorch, XGBoost, CatBoost
+
+💾 Data & Processing
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,hadoop" /> </p>
+PostgreSQL, Oracle, ClickHouse
+
+ETL, feature stores, analytics layers
+
+⚙️ MLOps & Infrastructure
+<p> <img src="https://skillicons.dev/icons?i=docker,git,linux" /> </p>
+Docker, Docker Compose
+
+Airflow, Kubeflow, MLflow, DVC
+
+CI/CD, experiment tracking
+
+🔭 Currently Exploring
+bash
+Копировать код
+🔍 Improving   → MLOps reliability & monitoring
+📊 Working on → Production ML pipelines
+🧼 Learning   → Data validation & schema evolution
+📚 Reading    → ML system design
+📊 GitHub Insights
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marrrik&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marrrik&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marrrik&theme=github_dark&utcOffset=3" /> </p>
+🌱 Fun Facts
+Production > notebooks
+
+Metrics without business meaning are noise
+
+Prefer reproducibility over hacks
+
+SQL counts as a language
+
+📨 Where to Find Me
+<p align="center"> <a href="https://t.me/tvoi_support"> <img src="https://img.shields.io/badge/Telegram-@tvoi_support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:00D2FF&height=120&section=footer" /> </p> ```
