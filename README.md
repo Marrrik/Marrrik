@@ -82,8 +82,6 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 
 </details>
 
----
-
 ## 🧠 Tech Stack
 
 ### 🌍 Languages, ML & DL
@@ -98,20 +96,6 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 - XGBoost, CatBoost, LightGBM  
 - Prophet (multivariate & dynamic regressors)  
 
----
-
-### 🧠 NLP & Time Series
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- NLP: TF-IDF, BoW, Word2Vec, BERT, FinBERT  
-- Sentiment analysis (news, social, financial text)  
-- Time series forecasting (classical + ML)  
-- Feature attribution: SHAP, Mutual Information, RFE  
-
----
-
 ### 💾 Data, Storage & Processing
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,sqlite,hadoop" />
@@ -123,8 +107,6 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 - Feature engineering & dataset validation  
 - Hadoop ecosystem (basics)  
 
----
-
 ### ☁️ Object Storage & Data Sources
 <p>
   <img src="https://skillicons.dev/icons?i=aws" />
@@ -135,11 +117,9 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 - Blockchain & crypto APIs  
 - External data sources (REST / GraphQL)  
 
----
-
 ### ⚙️ MLOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,gitlab" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,gitlab,kubernetes,Docker" />
 </p>
 
 - Docker, Docker Compose  
@@ -147,21 +127,9 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 - Git, GitLab  
 - CI/CD pipelines  
 - DVC (data & model versioning)  
-- Experiment tracking: MLflow, ClearML  
-
----
-
-### 🚀 Orchestration & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=airflow,kubernetes" />
-</p>
-
+- Experiment tracking: MLflow, ClearML
 - Apache Airflow  
 - Kubeflow  
-- Model deployment & monitoring  
-- Production ML lifecycle management  
-
----
 
 ### 🌐 Backend & Services
 <p>
@@ -171,22 +139,8 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 - FastAPI  
 - REST APIs  
 - Async Python (asyncio, aiohttp)  
-- ML microservices  
-- Telegram bots (analytics, alerts, signals)  
-
----
-
-### 📊 Analytics & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- EDA & hypothesis testing  
-- Business & risk metrics  
-- Dash, Streamlit  
-- Power BI  
-
-
+- ML microservices
+- 
 ---
 
 ## 📊 GitHub Insights
