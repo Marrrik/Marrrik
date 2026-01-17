@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:7F00FF&height=160&section=header&text=Mark%20Starchenko%20%E2%80%94%20Production%20ML%20Engineer&fontColor=ffffff&fontSize=34&desc=Machine%20Learning%20%7C%20MLOps%20%7C%20Data%20Systems&descSize=18&descAlign=62&descAlignY=72" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F00FF&center=true&width=900&lines=Building+production-grade+ML+systems;From+data+pipelines+to+model+monitoring;Reproducible+ML+over+notebooks;Metrics+that+matter+to+business" />
+</p>
+
+
 <div align="center">
 
 # Hi, I’m Mark 👋  
