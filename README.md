@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I’m Mark 👋  
-### ML Engineer / Data Scientist
+### ML Engineer /  R&D Data Scientist
 
 I design, build, and deploy **production-grade ML systems** — from data ingestion and feature pipelines to model serving, monitoring, and business metrics.
 
@@ -29,13 +29,13 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 - MLOps stack: Airflow, DVC, ClearML, S3-compatible storage  
 
 **ML Engineer — Fintech (Banking)**  
-- Credit risk models (PD, LGD) for corporate clients  
-- Models developed under regulatory requirements (483-P, 845-P)  
+- Credit risk models for corporate clients  
+- Models developed under regulatory requirements
 - Production deployment via Kubeflow & CI/CD pipelines  
 - Oracle-based data pipelines and automated data collection  
 
 **ML Engineer — Product / Startup**  
-- Built a full ML product from scratch (ETL → models → backend → Telegram bot)  
+- Built a full ML product from scratch (ETL → models → backend)  
 - Multisource ingestion: blockchain, exchanges, social & news data  
 - NLP sentiment indices (FinBERT) and Prophet-based forecasting  
 - Dockerized microservices and production-ready architecture  
@@ -108,6 +108,16 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 
 ---
 
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marrrik&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marrrik&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marrrik&theme=github_dark&utcOffset=3" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 **Winner — International Student Olympiad “Engineering Breakthrough”**  
@@ -119,41 +129,8 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 - 🎯 **Finalist — Sovcombank Case Championship**  
   *(Credit risk modeling)*
 
-- 🚀 **Deployed PD model for corporate clients into production**  
-  *(Regulatory banking environment)*
-
-- 🧠 **Built multiple full-cycle ML products**  
-  From raw data and modeling to backend services and user-facing bots  
-
 - 🎓 **Assistant Lecturer in Machine Learning**  
   Teaching seminars, reviewing labs, and mentoring students  
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced MLOps & monitoring patterns  
-- Scalable ML systems and feature stores  
-- Production NLP & time series reliability  
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marrrik&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marrrik&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marrrik&theme=github_dark&utcOffset=3" />
-</p>
-
----
-
-## 🌱 Principles
-
-- Production > notebooks  
-- Business metrics > offline scores  
-- Reproducibility over hacks  
-- SQL **is** a programming language  
 
 ---
 
