@@ -86,37 +86,106 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 
 ## 🧠 Tech Stack
 
-### 🌍 Languages & ML
+### 🌍 Languages, ML & DL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+- Python  
+- pandas, NumPy, SciPy  
+- scikit-learn  
+- PyTorch  
+- XGBoost, CatBoost, LightGBM  
+- Prophet (multivariate & dynamic regressors)  
+
+---
+
+### 🧠 NLP & Time Series
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- pandas, NumPy, scikit-learn  
-- PyTorch  
-- XGBoost, CatBoost, LightGBM  
+- NLP: TF-IDF, BoW, Word2Vec, BERT, FinBERT  
+- Sentiment analysis (news, social, financial text)  
+- Time series forecasting (classical + ML)  
+- Feature attribution: SHAP, Mutual Information, RFE  
 
 ---
 
-### 💾 Data & Processing
+### 💾 Data, Storage & Processing
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,hadoop" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,sqlite,hadoop" />
 </p>
 
-- PostgreSQL, Oracle, MySQL, ClickHouse  
-- ETL pipelines, feature engineering  
-- Hadoop ecosystem basics  
+- PostgreSQL, MySQL, Oracle, ClickHouse  
+- SQLAlchemy  
+- ETL / ELT pipelines  
+- Feature engineering & dataset validation  
+- Hadoop ecosystem (basics)  
+
+---
+
+### ☁️ Object Storage & Data Sources
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+- AWS S3  
+- Yandex Object Storage (S3-compatible)  
+- Blockchain & crypto APIs  
+- External data sources (REST / GraphQL)  
 
 ---
 
 ### ⚙️ MLOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,gitlab" />
 </p>
 
-- Docker, Docker Compose, Linux  
-- Airflow, Kubeflow, MLflow, ClearML  
-- DVC, CI/CD (GitLab)  
-- Experiment tracking & model monitoring   
+- Docker, Docker Compose  
+- Linux  
+- Git, GitLab  
+- CI/CD pipelines  
+- DVC (data & model versioning)  
+- Experiment tracking: MLflow, ClearML  
+
+---
+
+### 🚀 Orchestration & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=airflow,kubernetes" />
+</p>
+
+- Apache Airflow  
+- Kubeflow  
+- Model deployment & monitoring  
+- Production ML lifecycle management  
+
+---
+
+### 🌐 Backend & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+- FastAPI  
+- REST APIs  
+- Async Python (asyncio, aiohttp)  
+- ML microservices  
+- Telegram bots (analytics, alerts, signals)  
+
+---
+
+### 📊 Analytics & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- EDA & hypothesis testing  
+- Business & risk metrics  
+- Dash, Streamlit  
+- Power BI  
+
 
 ---
 
