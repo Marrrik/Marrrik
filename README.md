@@ -87,24 +87,36 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 ## 🧠 Tech Stack
 
 ### 🌍 Languages & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-- Python  
 - pandas, NumPy, scikit-learn  
 - PyTorch  
 - XGBoost, CatBoost, LightGBM  
 
+---
+
 ### 💾 Data & Processing
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,hadoop" />
+</p>
 
 - PostgreSQL, Oracle, MySQL, ClickHouse  
 - ETL pipelines, feature engineering  
 - Hadoop ecosystem basics  
 
+---
+
 ### ⚙️ MLOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
+</p>
 
 - Docker, Docker Compose, Linux  
 - Airflow, Kubeflow, MLflow, ClearML  
 - DVC, CI/CD (GitLab)  
-- Experiment tracking & model monitoring  
+- Experiment tracking & model monitoring   
 
 ---
 
