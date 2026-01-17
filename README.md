@@ -30,3 +30,14 @@ Anomaly detection pipelines for industrial data (R&D, production monitoring)
 Multi-source ETL system with time series forecasting and NLP sentiment analysis
 
 ML-powered backend services with REST APIs and Telegram bots
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marrrik&show_icons=true&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marrrik&layout=compact" />
+</p>
+
+📫 Contact
+
+Telegram: @tvoi_support
+Email: slaidsuper@gmail.com
