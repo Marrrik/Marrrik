@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I’m Mark 👋
+# Hi, I’m Mark 👋  
 ### ML Engineer / Data Scientist
 
-Building production-ready ML systems: from data pipelines to model deployment and monitoring.
+I design, build, and deploy **production-grade ML systems** — from data ingestion and feature pipelines to model serving, monitoring, and business metrics.
 
 </div>
 
@@ -11,88 +11,130 @@ Building production-ready ML systems: from data pipelines to model deployment an
 
 ## 💼 Career Focus
 
-**Data & Analytics → Machine Learning → Production ML / MLOps**
+**Analytics → Machine Learning → Production ML / MLOps**
 
-- Data analysis, BI, SQL
-- Credit risk, time series, NLP
-- End-to-end ML systems, deployment, monitoring
+- End-to-end ML systems in fintech & industrial domains  
+- Credit risk modeling (PD / LGD), regulatory ML  
+- Time series & NLP systems with business impact  
+- Strong emphasis on reproducibility, monitoring, and validation  
 
 ---
 
-## 🔧 Engineering Highlights
+## 🏢 Professional Experience (Highlights)
+
+**ML Engineer — Industrial / Mining (R&D)**  
+- Anomaly detection systems for industrial data  
+- OCR models and data processing pipelines  
+- Full ML lifecycle: dataset validation → training → deployment → monitoring  
+- MLOps stack: Airflow, DVC, ClearML, S3-compatible storage  
+
+**ML Engineer — Fintech (Banking)**  
+- Credit risk models (PD, LGD) for corporate clients  
+- Models developed under regulatory requirements (483-P, 845-P)  
+- Production deployment via Kubeflow & CI/CD pipelines  
+- Oracle-based data pipelines and automated data collection  
+
+**ML Engineer — Product / Startup**  
+- Built a full ML product from scratch (ETL → models → backend → Telegram bot)  
+- Multisource ingestion: blockchain, exchanges, social & news data  
+- NLP sentiment indices (FinBERT) and Prophet-based forecasting  
+- Dockerized microservices and production-ready architecture  
+
+---
+
+## 🚀 Engineering Highlights
 
 <details>
 <summary>🚀 Production ML Pipelines</summary>
 
-- Python, Airflow, SQL  
-- End-to-end pipelines: data → features → models → metrics  
-- Used in fintech & industrial environments  
+- Python, SQL, Airflow  
+- Data ingestion → feature engineering → model training → metrics  
+- Dataset validation, versioning (DVC), experiment tracking  
+- Used in real production environments  
 
 </details>
 
 <details>
-<summary>📈 Credit Risk Modeling</summary>
+<summary>📈 Credit Risk & Regulatory ML</summary>
 
-- PD / LGD models  
-- Regulatory-oriented development  
-- Model validation & business metrics  
+- PD / LGD models for corporate lending  
+- Model validation & business-oriented metrics  
+- Work under banking regulations (model governance, reproducibility)  
+- Close interaction with data, risk, and business teams  
 
 </details>
 
 <details>
 <summary>🧠 NLP & Time Series Systems</summary>
 
-- FinBERT, BERT, Prophet  
-- Multi-source data ingestion  
-- Sentiment indices & forecasts  
+- FinBERT / BERT for news & social sentiment  
+- Multivariate & multitype time series forecasting (Prophet)  
+- Sentiment indices, dynamic regressors, feature attribution  
 
 </details>
 
 <details>
-<summary>🤖 ML Services & Bots</summary>
+<summary>🤖 ML Services & Automation</summary>
 
 - FastAPI-based ML backends  
-- Telegram bots for analytics & alerts  
-- Dockerized deployment  
+- Telegram bots for analytics, signals, and alerts  
+- Docker & docker-compose deployment  
 
 </details>
 
 ---
 
-## 🧠 My Stack
+## 🧠 Tech Stack
 
 ### 🌍 Languages & ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
+- Python  
 - pandas, NumPy, scikit-learn  
-- PyTorch, XGBoost, CatBoost  
+- PyTorch  
+- XGBoost, CatBoost, LightGBM  
 
 ### 💾 Data & Processing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,hadoop" />
-</p>
-
-- PostgreSQL, Oracle, ClickHouse  
+- PostgreSQL, Oracle, MySQL, ClickHouse  
 - ETL pipelines, feature engineering  
+- Hadoop ecosystem basics  
 
 ### ⚙️ MLOps & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
-</p>
-
-- Docker, Docker Compose  
-- Airflow, Kubeflow, MLflow, DVC  
-- CI/CD, experiment tracking  
+- Docker, Docker Compose, Linux  
+- Airflow, Kubeflow, MLflow, ClearML  
+- DVC, CI/CD (GitLab)  
+- Experiment tracking & model monitoring  
 
 ---
 
-## 🔭 Currently Exploring
+## 🏆 Achievements
 
+- 🥇 **Winner — International Student Olympiad “Engineering Breakthrough”**  
+  *(Track: Data Engineering & Machine Learning)*
+
+- 🥉 **Bronze Medalist — All-Russian Olympiad “I Am a Professional”**  
+  *(Business Informatics)*
+
+- 🎯 **Finalist — Sovcombank Case Championship**  
+  *(Credit risk modeling)*
+
+- 🚀 **Deployed PD model for corporate clients into production**  
+  *(Regulatory banking environment)*
+
+- 🧠 **Built multiple full-cycle ML products**  
+  From raw data and modeling to backend services and user-facing bots  
+
+- 🎓 **Assistant Lecturer in Machine Learning**  
+  Teaching seminars, reviewing labs, and mentoring students  
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced MLOps & monitoring patterns  
+- Scalable ML systems and feature stores  
+- Production NLP & time series reliability  
 
 ---
 
@@ -106,25 +148,19 @@ Building production-ready ML systems: from data pipelines to model deployment an
 
 ---
 
-## 🌱 Fun Facts
+## 🌱 Principles
 
 - Production > notebooks  
-- Metrics without business meaning are noise  
-- Prefer reproducibility over hacks  
-- SQL counts as a language  
+- Business metrics > offline scores  
+- Reproducibility over hacks  
+- SQL **is** a programming language  
 
 ---
 
-## 📨 Where to Find Me
+## 📨 Contact
 
 <p align="center">
   <a href="https://t.me/tvoi_support">
     <img src="https://img.shields.io/badge/Telegram-@tvoi_support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:00D2FF&height=120&section=footer" />
 </p>
