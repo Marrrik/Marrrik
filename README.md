@@ -164,16 +164,16 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 
 ## 🏆 Achievements
 
-- 🥇 **Winner — International Student Olympiad “Engineering Breakthrough”**  
+- 🥇 **Winner — International Student Olympiad “Engineering Breakthrough”**  2025
   *(Track: Data Engineering & Machine Learning)*
 
-- 🥉 **Bronze Medalist — All-Russian Olympiad “I Am a Professional”**  
+- 🥉 **Bronze Medalist — All-Russian Olympiad “I Am a Professional”**  2025
   *(Business Informatics)*
 
-- 🎯 **Finalist — Sovcombank Case Championship**  
+- 🎯 **Finalist — Sovcombank Case Championship**  2024
   *(Credit risk modeling)*
 
-- 🎓 **Assistant Lecturer in Machine Learning**  
+- 🎓 **Assistant Lecturer in Machine Learning**  2024-2025
   Teaching seminars, reviewing labs, and mentoring students  
 
 ---
