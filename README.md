@@ -149,7 +149,6 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 - REST APIs  
 - Async Python (asyncio, aiohttp)  
 - ML microservices
-- 
 ---
 
 ## 📊 GitHub Insights
