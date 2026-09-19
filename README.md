@@ -163,6 +163,9 @@ I design, build, and deploy **production-grade ML systems** — from data ingest
 
 ## 🏆 Achievements
 
+- 🥇 **Winner — Ozon Tech Hackathon “РОБОЗОН” (2026)**  
+  *(Track: Intelligent Robotic Goods Sorting System)*
+
 - 🥇 **Winner — International Student Olympiad “Engineering Breakthrough” (2025)**  
   *(Track: Data Engineering & Machine Learning)*
 
